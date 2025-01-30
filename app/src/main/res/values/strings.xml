@@ -5,4 +5,7 @@
     <string name="error_no_internet">beep boop no internet!</string>
     <string name="error_unknown">error unknown??</string>
     <string name="error_serialization">error in serialization!</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24h">Change last 24h</string>
 </resources>
